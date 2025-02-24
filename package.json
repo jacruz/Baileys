@@ -1,7 +1,7 @@
 {
   "name": "baileys",
   "version": "6.7.9",
-  "description": "WhatsApp API",
+  "description": "WhatsApp API. Modificado para PrimeChat",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
