@@ -33,6 +33,7 @@ export type ProductBase = {
 	url?: string
 	description: string
 	price: number
+    salePrice: number;
 	currency: string
 	isHidden?: boolean
 }
